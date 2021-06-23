@@ -3,6 +3,8 @@
 ## TOPICS:
 
 ### ----Pymongo1----
+##### 1.CONNECT PYMONGO
+##### 2.INSERT
 
 
 ### ----MONGO QUERY----
